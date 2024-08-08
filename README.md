@@ -1,0 +1,2 @@
+# snake_game
+Snake GAME HTML CSS AND JAVASCRIPT
