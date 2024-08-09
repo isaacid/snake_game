@@ -1,69 +1,46 @@
-# Snake Game
+# Snake Game
+
 Welcome to my Snake Game! This is a simple, classic Snake game built using JavaScript, HTML, and CSS. The game is played directly in the web browser and can be enjoyed by players of all ages.
 
-Table of Contents
-Demo
-Features
-How to Play
-Installation
-Technologies Used
-Project Structure
-Contributing
-License
-Acknowledgments
-Demo
-You can play the game here (replace this link with the link to your GitHub Pages, if available).
+## Table of Contents
+- [Demo](#demo)
+- [Features](#features)
+- [How to Play](#how-to-play)
+- [Installation](#installation)
+- [Technologies Used](#technologies-used)
+- 
+## Demo
 
- (Include a screenshot of your game here)
+<img width="856" alt="Screenshot 2024-08-09 at 11 38 01" src="https://github.com/user-attachments/assets/7d6c2347-0b00-45d7-b544-ecc2a1c0137b">
 
-Features
-Classic Gameplay: Control the snake to eat food and grow longer, but avoid running into walls or yourself.
-Responsive Design: The game is responsive and works well on both desktop and mobile devices.
-Score Tracking: Keep track of your score as you play.
-Restart Functionality: Easily restart the game at any time.
-How to Play
-Use the arrow keys on your keyboard to control the direction of the snake.
-Up Arrow: Move up
-Down Arrow: Move down
-Left Arrow: Move left
-Right Arrow: Move right
-The objective is to eat the food that appears on the screen. Each time the snake eats food, it grows longer.
-The game ends if the snake collides with the walls or with itself.
-Try to achieve the highest score possible!
-Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/snake-game.git
-Navigate to the project directory:
-bash
-Copy code
-cd snake-game
-Open the index.html file in your preferred web browser.
-Technologies Used
-JavaScript: Game logic and interactivity
-HTML5: Game structure and layout
-CSS3: Styling and design
-Project Structure
-plaintext
-Copy code
-snake-game/
-│
-├── css/
-│   └── styles.css      # Main CSS file
-│
-├── js/
-│   └── script.js       # Main JavaScript file
-│
-├── index.html          # Main HTML file
-│
-└── README.md           # This file
-Contributing
-Contributions are welcome! If you'd like to improve this game, feel free to fork the repository and submit a pull request. Please make sure your contributions align with the style and purpose of the project.
+![Snake Game Screenshot](path/to/screenshot.png)  *(Include a screenshot of your game here)*
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Features
+- **Classic Gameplay:** Control the snake to eat food and grow longer, but avoid running into walls or yourself.
+- **Score Tracking:** Keep track of your score as you play.
+- **Restart Functionality:** Easily restart the game at any time.
 
-Acknowledgments
-Inspired by the classic Snake game.
-Thanks to all the tutorials and open-source projects that helped in learning and building this game.
+## How to Play
+1. Use the arrow keys on your keyboard to control the direction of the snake.
+   - **Up Arrow:** Move up
+   - **Down Arrow:** Move down
+   - **Left Arrow:** Move left
+   - **Right Arrow:** Move right
+2. The objective is to eat the food that appears on the screen. Each time the snake eats food, it grows longer.
+3. The game ends if the snake collides with the walls or with itself.
+4. Try to achieve the highest score possible!
+
+## Installation
+
+1. **Clone the repository:**
+   
+   git clone https://github.com/yourusername/snake-game.git
+   
+2. **Open the index.html file in your preferred web browser**
+
+## Technologies Used
+
+- JavaScript: Game logic and interactivity
+- HTML5: Game structure and layout
+- CSS3: Styling and design
+
