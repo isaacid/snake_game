@@ -32,7 +32,7 @@ Welcome to my Snake Game! This is a simple, classic Snake game built using JavaS
 
 1. **Clone the repository:**
    
-   git clone https://github.com/yourusername/snake-game.git
+   git clone https://github.com/isaacid/snake_game.git
    
 2. **Open the index.html file in your preferred web browser**
 
