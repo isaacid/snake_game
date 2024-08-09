@@ -8,7 +8,7 @@ Welcome to my Snake Game! This is a simple, classic Snake game built using JavaS
 - [How to Play](#how-to-play)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
-- 
+  
 ## Demo
 
 <img width="856" alt="Screenshot 2024-08-09 at 11 38 01" src="https://github.com/user-attachments/assets/7d6c2347-0b00-45d7-b544-ecc2a1c0137b">
